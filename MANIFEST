@@ -15,3 +15,4 @@ t/MetaTrans-SeznamCz/00-use.t
 t/MetaTrans-SeznamCz/01-version.t
 t/MetaTrans-SeznamCz/02-pod_coverage.t
 t/MetaTrans-SeznamCz/03-pod.t
+t/MetaTrans-SeznamCz/04-new.t
