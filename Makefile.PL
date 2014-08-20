@@ -11,6 +11,7 @@ author 'Jan Pomikalek <xpomikal@fi.muni.cz>';
 author 'Michal Špaček <skim@cpan.org>';
 license 'perl-5';
 name 'MetaTrans-SeznamCz';
+readme_from 'SeznamCz.pm';
 requires 'HTTP::Request' => 0;
 requires 'MetaTrans' => '1.06';
 requires 'URI::Escape' => 0;
