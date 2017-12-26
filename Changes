@@ -1,4 +1,5 @@
 1.06
+ - Add LICENSE file.
  - Add README file.
  - First version (moved from MetaTrans perl module).
  - Remove diacritics from author name in Makefile.PL.
