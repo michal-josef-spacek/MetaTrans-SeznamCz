@@ -1,4 +1,4 @@
 1.06
  - Add README file.
  - First version (moved from MetaTrans perl module).
- - Update Module::Install to 1.10 version.
+ - Update Module::Install to 1.18 version.
