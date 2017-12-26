@@ -3,3 +3,4 @@
  - First version (moved from MetaTrans perl module).
  - Remove diacritics from author name in Makefile.PL.
  - Update Module::Install to 1.18 version.
+ - Update author name.
